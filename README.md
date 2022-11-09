@@ -1,1 +1,2 @@
-"# ytpmaniac" 
+YTPManiac
+readme soon
